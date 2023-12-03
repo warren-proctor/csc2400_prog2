@@ -1,0 +1,118 @@
+Outputs
+
+------------------------------------------------------
+                      
+Size: 10
+Shell's Sort: random, Elapsed Time: 958 nanoseconds
+Shell's Sort: asc, Elapsed Time: 375 nanoseconds
+Shell's Sort: desc, Elapsed Time: 750 nanoseconds
+
+Insertion Sort: random, Elapsed Time: 583 nanoseconds
+Insertion Sort: asc, Elapsed Time: 209 nanoseconds
+Insertion Sort: desc, Elapsed Time: 625 nanoseconds
+
+Bubble Sort: random, Elapsed Time: 833 nanoseconds
+Bubble Sort: asc, Elapsed Time: 459 nanoseconds
+Bubble Sort: desc, Elapsed Time: 625 nanoseconds
+
+Selection Sort: random, Elapsed Time: 833 nanoseconds
+Selection Sort: asc, Elapsed Time: 500 nanoseconds
+Selection Sort: desc, Elapsed Time: 750 nanoseconds
+
+------------------------------------------------------
+
+Size: 100
+Shell's Sort: random, Elapsed Time: 29417 nanoseconds
+Shell's Sort: asc, Elapsed Time: 10084 nanoseconds
+Shell's Sort: desc, Elapsed Time: 17333 nanoseconds
+
+Insertion Sort: random, Elapsed Time: 33250 nanoseconds
+Insertion Sort: asc, Elapsed Time: 1833 nanoseconds
+Insertion Sort: desc, Elapsed Time: 57833 nanoseconds
+
+Bubble Sort: random, Elapsed Time: 92666 nanoseconds
+Bubble Sort: asc, Elapsed Time: 41333 nanoseconds
+Bubble Sort: desc, Elapsed Time: 80958 nanoseconds
+
+Selection Sort: random, Elapsed Time: 50667 nanoseconds
+Selection Sort: asc, Elapsed Time: 41958 nanoseconds
+Selection Sort: desc, Elapsed Time: 49333 nanoseconds
+
+------------------------------------------------------
+
+Size: 1000
+Shell's Sort: random, Elapsed Time: 432792 nanoseconds
+Shell's Sort: asc, Elapsed Time: 146583 nanoseconds
+Shell's Sort: desc, Elapsed Time: 245083 nanoseconds
+
+Insertion Sort: random, Elapsed Time: 2119125 nanoseconds
+Insertion Sort: asc, Elapsed Time: 11875 nanoseconds
+Insertion Sort: desc, Elapsed Time: 3718916 nanoseconds
+
+Bubble Sort: random, Elapsed Time: 3590917 nanoseconds
+Bubble Sort: asc, Elapsed Time: 1915583 nanoseconds
+Bubble Sort: desc, Elapsed Time: 3293959 nanoseconds
+
+Selection Sort: random, Elapsed Time: 2010166 nanoseconds
+Selection Sort: asc, Elapsed Time: 1609000 nanoseconds
+Selection Sort: desc, Elapsed Time: 1785417 nanoseconds
+
+------------------------------------------------------
+
+Size: 10000
+Shell's Sort: random, Elapsed Time: 6196875 nanoseconds
+Shell's Sort: asc, Elapsed Time: 704417 nanoseconds
+Shell's Sort: desc, Elapsed Time: 1106708 nanoseconds
+
+Insertion Sort: random, Elapsed Time: 57433667 nanoseconds
+Insertion Sort: asc, Elapsed Time: 27125 nanoseconds
+Insertion Sort: desc, Elapsed Time: 71341417 nanoseconds
+
+Bubble Sort: random, Elapsed Time: 154550500 nanoseconds
+Bubble Sort: asc, Elapsed Time: 62629500 nanoseconds
+Bubble Sort: desc, Elapsed Time: 107485750 nanoseconds
+
+Selection Sort: random, Elapsed Time: 63087750 nanoseconds
+Selection Sort: asc, Elapsed Time: 62674667 nanoseconds
+Selection Sort: desc, Elapsed Time: 70582334 nanoseconds
+
+------------------------------------------------------
+
+Size: 100000
+Shell's Sort: random, Elapsed Time: 30883250 nanoseconds
+Shell's Sort: asc, Elapsed Time: 7065833 nanoseconds
+Shell's Sort: desc, Elapsed Time: 9891875 nanoseconds
+
+Insertion Sort: random, Elapsed Time: 3438898750 nanoseconds
+Insertion Sort: asc, Elapsed Time: 221792 nanoseconds
+Insertion Sort: desc, Elapsed Time: 6920143042 nanoseconds
+
+Bubble Sort: random, Elapsed Time: 18792302750 nanoseconds
+Bubble Sort: asc, Elapsed Time: 6260450667 nanoseconds
+Bubble Sort: desc, Elapsed Time: 10885836417 nanoseconds
+
+Selection Sort: random, Elapsed Time: 6255976000 nanoseconds
+Selection Sort: asc, Elapsed Time: 6260125708 nanoseconds
+Selection Sort: desc, Elapsed Time: 7049882875 nanoseconds
+
+------------------------------------------------------
+
+Size: 1000000
+Shell's Sort: random, Elapsed Time: 155377583 nanoseconds
+Shell's Sort: asc, Elapsed Time: 39736125 nanoseconds
+Shell's Sort: desc, Elapsed Time: 62933458 nanoseconds
+
+Insertion Sort: random, Elapsed Time: 348593931167 nanoseconds
+Insertion Sort: asc, Elapsed Time: 2258792 nanoseconds
+Insertion Sort: desc, Elapsed Time: 711527801417 nanoseconds
+
+Bubble Sort: random, Elapsed Time: 1922252730584 nanoseconds
+Bubble Sort: asc, Elapsed Time: 636991314375 nanoseconds
+Bubble Sort: desc, Elapsed Time: 1111551902792 nanoseconds
+
+Selection Sort: random, Elapsed Time: 632407135958 nanoseconds
+Selection Sort: asc, Elapsed Time: 628157106833 nanoseconds
+Selection Sort: desc, Elapsed Time: 712833562875 nanoseconds
+
+------------------------------------------------------
+
